@@ -12,11 +12,44 @@ int main(int argc, const char * argv[])
 {
 
     @autoreleasepool {
+        ///NSString *dowlath;
+        int i,j;
+      for (i=0; i<=25; i++) {
+          
+           NSLog(@"dowlath ");
+          for (j=0; j<1; j++) {
+               NSLog(@"s");
+          }
+          
+         
+           //NSLog(@"s");
+         
+       }
+      }
+//     while (i<=50) {
+//          NSLog(@"dowlath ",i);
+//        i++;
+//      }
+//       do
+//       {
+//            i++;
+//           NSLog(@"dowlath ");
+//      }
+//        while (i<=50);
+//        
         
-        // insert code here...
-        NSLog(@"Hello, World!");
-        
-    }
+//        NSString *name;
+//       NSLog(@"enter your name");
+//     scanf("%s",&name);
+//               for (int i=0; i<=50; i++) {
+//                   NSLog(@"%@",name);
+//
+////
+//                // insert code here...
+//       // NSLog(@"Hello, World!");
+//        
+//    }
     return 0;
-}
 
+
+}
